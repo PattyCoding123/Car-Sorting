@@ -1,14 +1,14 @@
 //==========================================================
 //
 // Title:      Lab 22
-// Course:     CSC 1101
 // Lab Number: 22
 // Author:     Patrick Ducusin
 // Date:       <04/19/2021>
 // Description:
 //   We will be making a program that manages car parts. 
 // We will be utilizing arrays and several functions. 
-// This code is added onto from Lab 22.
+// This code is added onto from a previous lab. The project
+// utilizes several functions.
 //==========================================================
 #include <cstdlib> // For several general-purpose functions
 #include <fstream> // For file handling
