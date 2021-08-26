@@ -1,4 +1,4 @@
-# Lab-Example-22
+# Car Part Sorting
 Console application that allows user to manage a list of car parts.
 The user will be able to search for a car part, add a car part to the list, remove a part,
 and sort the list. The sorting algorithm used to sort the car parts list is a selection sort.
